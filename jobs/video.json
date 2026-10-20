@@ -1,0 +1,11 @@
+{
+  "kind": "video",
+  "model": "seedance-2-mini",
+  "prompt": "A slow camera dolly past the brass telescope in the tiny observatory. The curtain moves gently and a beam of dusk light shifts over the wooden desk. Preserve the instrument and architecture. One continuous shot, no speech, no text.",
+  "duration": 4,
+  "resolution": "480p",
+  "aspect_ratio": "16:9",
+  "generate_audio": false,
+  "first_frame_file": "examples/gpt-image-2-vip.png",
+  "run_id": "1020-localmini-seedance-2-mini"
+}

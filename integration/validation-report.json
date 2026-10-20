@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-20",
+  "upstream_sha": "abcec932e2395bad2fdb298dac95d59c7c6a83a3",
+  "api_images": 3,
+  "api_videos": 1,
+  "full_app_ui_verified": false,
+  "native_callImageApi_fixture_replay": "passed",
+  "images": 3,
+  "paid_calls_in_replay": 0
+}

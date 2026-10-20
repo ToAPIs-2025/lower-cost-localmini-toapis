@@ -1,0 +1,17 @@
+{
+  "provider": "openai",
+  "api_protocol": "openai",
+  "base_url": "http://127.0.0.1:8769/v1",
+  "endpoint": "/images/generations",
+  "api_key": "SET_SEPARATE_BRIDGE_TOKEN_IN_UI",
+  "model": [
+    "gpt-image-2-vip",
+    "gpt-image-2",
+    "gpt-image-2.5-flare"
+  ],
+  "is_active": true,
+  "is_default": false,
+  "service_type": "image",
+  "note": "Self-hosted server only. Paste fields manually; this is not an undocumented database import. Keep real ToAPIs key in bridge environment.",
+  "quality_in_ui": "Leave unset for this bridge recipe; the model ID selects low/standard/high fixed presets. Other quality values are rejected, not silently repriced."
+}

@@ -1,0 +1,34 @@
+{
+  "model": "seedance-2-mini",
+  "kind": "video",
+  "status": "completed",
+  "parameters": {
+    "duration": 4,
+    "resolution": "480p",
+    "aspect_ratio": "16:9"
+  },
+  "cost": {
+    "model": "seedance-2-mini",
+    "billing_status": "settled",
+    "actual_cost_usd": "0.13338",
+    "actual_credits": "26.676"
+  },
+  "catalog_rate": "3.285714",
+  "catalog_unit": "1m_tokens",
+  "project": "LocalMiniDrama",
+  "date": "2026-10-20",
+  "file": "examples/seedance-2-mini.mp4",
+  "prompt": "A slow camera dolly past the brass telescope in the tiny observatory. The curtain moves gently and a beam of dusk light shifts over the wooden desk. Preserve the instrument and architecture. One continuous shot, no speech, no text.",
+  "validation_scope": "Live ToAPIs API and generated configuration contract; upstream application UI and native certification not exercised",
+  "first_frame": "examples/gpt-image-2-vip.png",
+  "actual_seconds": "4.04",
+  "actual_dimensions": [
+    864,
+    496
+  ],
+  "fully_decoded": true,
+  "audio_stream_present": false,
+  "case_price_usd": "0.13338",
+  "case_price_basis": "API billing=settled",
+  "actual_usd_per_second": "0.03301485148514851485148514851"
+}

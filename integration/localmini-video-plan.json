@@ -1,0 +1,9 @@
+{
+  "candidate_protocol": "openai/sora multipart",
+  "model": "seedance-2-mini",
+  "resolution": "480p",
+  "duration": 4,
+  "native_mapper_status": "pending",
+  "reason": "Existing videoClient normalizes size/seconds by protocol. Do not guess that native OpenAI/Sora video defaults fit Seedance; inspect protocol path before enabling.",
+  "api_case": "jobs/video.json"
+}
